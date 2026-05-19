@@ -12,7 +12,3 @@ A Python-based application to manage your stock portfolio.
 - SQLite database for storing data
 - User-friendly Tkinter GUI
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kshitij9292/Stock-Portfolio-Manager.git
